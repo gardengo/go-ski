@@ -5,16 +5,12 @@
 
 
 ## 목차
-
-
 1. [**서비스 소개**](#1)
-2. [**주요기능 소개**](#2)
-3. [**기술 스택**](#3)
-4. [**시스템 아키텍처**](#4)
-5. [**팀원 소개**](#5)
-6. [**프로젝트 일정**](#6)
-7. [**참고**](#7)
-
+2. [**프로젝트 일정**](#2)
+3. [**팀원 소개**](#3)
+4. [**기술 스택**](#4)
+5. [**주요기능 소개**](#5)
+6. [**시스템 아키텍처**](#6)
 
 <div id="1"></div>
 
@@ -31,63 +27,44 @@ GOSKI와 함께라면팀 단위 및 개인 단위 스케줄을 최적으로 분�
 
 <div id="2"></div>
 
-## 🖥️ 주요 기능 소개
+## 📆 프로젝트 일정
 
-### 수강생
+### 2024.04.08 ~ 2024.05.20(6주)
 
-#### 로그인 / 리조트 선택
-<img src="exec/images/student_gif/수강생_01_로그인.gif" alt="로그인" style="width: 30%; margin-right:10px;">
-<img src="exec/images/student_gif/수강생_03_메인화면_리조트_선택_및_날씨.gif" alt="리조트선택_날씨" style="width: 30%;">
-
-
-#### 강습내역
-<img src="exec/images/student_gif/수강생_04_강습내역.gif" style="width: 30%;">
-
-#### 피드백 / 리뷰
-
-<img src="exec/images/student_gif/수강생_05_강습내역_피드백.gif" alt="피드백" style="width: 30%;  margin-right:10px;">
-<img src="exec/images/student_gif/수강생_06_강습내역_리뷰.gif" alt="리뷰" style="width: 30%;">
-
-
-#### 강사 프로필
-<img src="exec/images/student_gif/수강생_08_강습내역_강사프로필.gif" alt="강사 프로필" style="width: 30%;">
-
-#### 강습 예약 / 강습 취소
-<img src="exec/images/student_gif/수강생_11_강습예약.gif" alt="강습예약"  style="width: 30%; margin-right:10px;">
-<img src="exec/images/student_gif/수강생_07_강습내역_예약취소.gif" alt="예약취소" style="width: 30%;">
-
-#### 결제 내역
-<img src="exec/images/student_gif/수강생_09_결제내역.gif" alt="결제내역" style="width: 30%; margin-right:10px;">
-
-#### 알림 / 실시간 쪽지
-<img src="exec/images/student_gif/수강생_12_알림.gif" alt="알림"   style="width: 30%;  margin-right:10px;">
-<img src="exec/images/student_gif/수강생_14_쪽지.gif" alt="쪽지 보내기" style="width: 30%;">
-
-#### 알림 설정
-<img src="exec/images/student_gif/수강생_13_알림_설정.gif" alt="알림 설정"   style="width: 30%;">
-
-
-### 강사
-
-#### 로그인 화면
-<img src="exec/images/instructor_gif/강사_01_로그인.gif" alt="강사 로그인" style="width: 30%;">
-
-#### 일정 확인 / 실시간 강습 예약
-<img src="exec/images/instructor_gif/강사_02_일정_확인.gif" alt="강습 내역" style="width : 30%; margin-right:10px;">
-<img src="exec/images/instructor_gif/강사_03_실시간 강습_예약.gif" alt="실시간 강습 예약"style="width: 30%;">
-
-#### 알림 
-<img src="exec/images/instructor_gif/강사_04_알림.gif" alt="알림" style="width: 30%;">  
-
-#### 강습 내역 / 피드백 작성
-<img src="exec/images/instructor_gif/강사_06_강습_내역.gif" alt="강습 내역" style="width : 30%; margin-right:10px;">
-<img src="exec/images/instructor_gif/강사_07_피드백_작성.gif" alt="피드백 작성"style="width: 30%;">
-
-
-#### 리뷰 내역
-<img src="exec/images/instructor_gif/강사_05_리뷰_내역.gif" alt="리뷰 내역" style="width: 30%;">  
+- 기획 및 설계 : 2024.04.08 - 2024.04.13
+- 프로젝트 구현 : 2024.04.14 - 2024.05.12
+- QA 및 산출물 정리 : 2024.05.13 - 2024.05.20
 
 <div id="3"></div>
+
+## 👪 팀원 소개
+
+<table>
+    <tr>
+        <td height="140px" align="center">
+            <img src="exec/images/고승민.png" width="140px" /> <br> 고승민 <br>(Team Leader) </a> <br></td>
+        <td height="140px" align="center"> 
+            <img src="exec/images/송준석.png" width="140px" /> <br> 송준석 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> 
+            <img src="exec/images/최지찬.png" width="140px"  /> <br> 최지찬 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> 
+            <img src="exec/images/고정원.png" width="140px" /> <br> 고정원 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> 
+            <img src="exec/images/임종율.png" width="140px" /> <br> 임종율 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> 
+            <img src="exec/images/장승호.png" width="140px" /> <br> 장승호 <br>(Back-End) </a> <br></td>
+    </tr>
+    <tr>
+        <td align="center">강습 예약 페이지 UI<br>결제 페이지 UI<br>팀 목록 UI<br>강사 목록 UI<br>강사/팀 상세페이지 UI
+        <td align="center">로그인 페이지 UI<br> 회원가입 페이지 UI <br> FCM 연동 <br> 알림 설정 UI <br> 강사 스케줄 랜더링 <br> 스케줄 세부정보 UI
+        <td align="center">메인 페이지 UI<br>강습 내역 UI<br>결제 내역 UI<br>피드백 UI<br> 쪽지 UI <br> 리조트 날씨 API 연동
+        <td align="center">Infra<br>회원 관리 API<br>강습 내역 API<br> 스케줄 API<br>
+        <td align="center">카카오 API 기반 결제 API<br>사장 정산 및 정산내역 조회 API<br>강사프로필 및 리조트 조회 API<br>codeF API 기반 계좌 실명 인증 기능
+        <td align="center">팀 API <br> 피드백 및 리뷰 API<br> FCM 알림기능
+    </tr>
+</table>
+
+<div id="4"></div>
 
 ## 🛠️ 기술 스택
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=#007396" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
@@ -134,53 +111,65 @@ GOSKI와 함께라면팀 단위 및 개인 단위 스케줄을 최적으로 분�
 
 </details>
 
-
-<div id="4"></div>
+<div id="5"></div>
 
 ## 🗂️ 시스템 아키텍처
 <img src="exec/images/goski-architecture.png" alt="시스템 아키텍처">
 
-<div id="5"></div>
-
-## 👪 팀원 소개
-
-<table>
-    <tr>
-        <td height="140px" align="center">
-            <img src="exec/images/고승민.png" width="140px" /> <br> 고승민 <br>(Team Leader) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="exec/images/송준석.png" width="140px" /> <br> 송준석 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="exec/images/최지찬.png" width="140px"  /> <br> 최지찬 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="exec/images/고정원.png" width="140px" /> <br> 고정원 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="exec/images/임종율.png" width="140px" /> <br> 임종율 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="exec/images/장승호.png" width="140px" /> <br> 장승호 <br>(Back-End) </a> <br></td>
-    </tr>
-    <tr>
-        <td align="center">강습 예약 페이지 UI<br>결제 페이지 UI<br>팀 목록 UI<br>강사 목록 UI<br>강사/팀 상세페이지 UI
-        <td align="center">로그인 페이지 UI<br> 회원가입 페이지 UI <br> FCM 연동 <br> 알림 설정 UI <br> 강사 스케줄 랜더링 <br> 스케줄 세부정보 UI
-        <td align="center">메인 페이지 UI<br>강습 내역 UI<br>결제 내역 UI<br>피드백 UI<br> 쪽지 UI <br> 리조트 날씨 API 연동
-        <td align="center">Infra<br>회원 관리 API<br>강습 내역 API<br> 스케줄 API<br>
-        <td align="center">카카오 API 기반 결제 API<br>사장 정산 및 정산내역 조회 API<br>강사프로필 및 리조트 조회 API<br>codeF API 기반 계좌 실명 인증 기능
-        <td align="center">팀 API <br> 피드백 및 리뷰 API<br> FCM 알림기능
-    </tr>
-</table>
-
-
 <div id="6"></div>
 
-## 📆 프로젝트 일정
+## 🖥️ 주요 기능 소개
 
-### 2024.04.08 ~ 2024.05.20
+### 수강생
 
-- 기획 및 설계 : 2024.04.08 - 2024.04.13
-- 프로젝트 구현 : 2024.04.14 - 2024.05.12
-- QA 및 산출물 정리 : 2024.05.13 - 2024.05.20
+#### 로그인 / 리조트 선택
+<img src="exec/images/student_gif/수강생_01_로그인.gif" alt="로그인">
+<img src="exec/images/student_gif/수강생_03_메인화면_리조트_선택_및_날씨.gif" alt="리조트선택_날씨">
 
 
-<div id="7"></div>
+#### 강습내역
+<img src="exec/images/student_gif/수강생_04_강습내역.gif">
 
-## 참고
+#### 피드백 / 리뷰
+
+<img src="exec/images/student_gif/수강생_05_강습내역_피드백.gif" alt="피드백">
+<img src="exec/images/student_gif/수강생_06_강습내역_리뷰.gif" alt="리뷰">
+
+
+#### 강사 프로필
+<img src="exec/images/student_gif/수강생_08_강습내역_강사프로필.gif" alt="강사 프로필">
+
+#### 강습 예약 / 강습 취소
+<img src="exec/images/student_gif/수강생_11_강습예약.gif" alt="강습예약">
+<img src="exec/images/student_gif/수강생_07_강습내역_예약취소.gif" alt="예약취소">
+
+#### 결제 내역
+<img src="exec/images/student_gif/수강생_09_결제내역.gif" alt="결제내역">
+
+#### 알림 / 실시간 쪽지
+<img src="exec/images/student_gif/수강생_12_알림.gif" alt="알림">
+<img src="exec/images/student_gif/수강생_14_쪽지.gif" alt="쪽지 보내기">
+
+#### 알림 설정
+<img src="exec/images/student_gif/수강생_13_알림_설정.gif" alt="알림 설정">
+
+
+### 강사
+
+#### 로그인 화면
+<img src="exec/images/instructor_gif/강사_01_로그인.gif" alt="강사 로그인">
+
+#### 일정 확인 / 실시간 강습 예약
+<img src="exec/images/instructor_gif/강사_02_일정_확인.gif" alt="강습 내역">
+<img src="exec/images/instructor_gif/강사_03_실시간 강습_예약.gif" alt="실시간 강습 예약">
+
+#### 알림 
+<img src="exec/images/instructor_gif/강사_04_알림.gif" alt="알림">  
+
+#### 강습 내역 / 피드백 작성
+<img src="exec/images/instructor_gif/강사_06_강습_내역.gif" alt="강습 내역">
+<img src="exec/images/instructor_gif/강사_07_피드백_작성.gif" alt="피드백 작성">
+
+
+#### 리뷰 내역
+<img src="exec/images/instructor_gif/강사_05_리뷰_내역.gif" alt="리뷰 내역">  
